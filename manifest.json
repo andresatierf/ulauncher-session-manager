@@ -13,6 +13,36 @@
             "type": "keyword",
             "name": "Main keyword",
             "default_value": "sm"
+        },
+        {
+            "id": "kw_lock",
+            "type": "keyword",
+            "name": "Lock",
+            "default_value": "Lock"
+        },
+        {
+            "id": "kw_logout",
+            "type": "keyword",
+            "name": "Log Out",
+            "default_value": "Log Out"
+        },
+        {
+            "id": "kw_suspend",
+            "type": "keyword",
+            "name": "Suspend",
+            "default_value": "Suspend"
+        },
+        {
+            "id": "kw_restart",
+            "type": "keyword",
+            "name": "Restart",
+            "default_value": "Restart"
+        },
+        {
+            "id": "kw_poweroff",
+            "type": "keyword",
+            "name": "Power Off",
+            "default_value": "Power Off"
         }
     ]
 }
